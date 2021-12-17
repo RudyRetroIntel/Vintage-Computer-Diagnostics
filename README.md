@@ -2,12 +2,12 @@
 Vintage computers diagnostics
 
 A simpler way to diagnose vintage computers like 
-Apple II
-Apple IIe
-Apple IIc
-Commodore 64
-Commodore VIC20
-Commodore PET
+Apple II,
+Apple IIe,
+Apple IIc,
+Commodore 64,
+Commodore VIC20,
+Commodore PET,
 Commodore 128
 
 Looking to add more computers to this file.
