@@ -1,24 +1,21 @@
 # Vintage-Diagnostics
 Vintage computers diagnostics
 
-A simpler way to diagnose vintage computers like 
-Apple II,
-Apple IIe,
-Apple IIc,
-Commodore 64,
-Commodore VIC20,
-Commodore PET,
-Commodore 128
+A simpler way to diagnose vintage computers. Here you will find 
+diagnostic information on
 
-Looking to add more computers to this file.
+* Apple II series computers
 
-Any help in contributing would be great.
+* Commodore series computers
 
-Provided free and as is.
+* NABU PC computers
 
-I take no responsibility for accuracy or damages.
+
+As I collect more information, I will be updating this list.
+
+NOTE: Provided free and as is. I take no responsibility for accuracy or damages.
 If not sure, get a professional to fix your computer 
 
-Thanks
+Thanks,
 
 Rudy's Retro Intel 
