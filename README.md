@@ -14,7 +14,7 @@ diagnostic information on
 As I collect more information, I will update this list.
 
 NOTE: Provided free and as is. I take no responsibility for accuracy or damages.
-If not sure, get a professional to fix your computer 
+If not sure, get a professional to fix your computer. 
 
 Thanks,
 
