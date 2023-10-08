@@ -8,8 +8,6 @@ diagnostic information on
 
 * Commodore series computers
 
-* NABU PC computers
-
 
 As I collect more information, I will update this list.
 
