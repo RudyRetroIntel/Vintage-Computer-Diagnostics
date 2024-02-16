@@ -8,6 +8,7 @@ diagnostic information on
 
 * Commodore series computers
 
+* and now other vintage computers
 
 As I collect more information, I will update this list.
 
